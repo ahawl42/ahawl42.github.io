@@ -1,0 +1,11 @@
+title: This Is Not A Blog
+author: Alex Hawley
+
+description: > # this means to ignore newlines until "baseurl:"
+
+# social links
+github_username:  ahawl42
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
